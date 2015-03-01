@@ -6,7 +6,8 @@ import (
 	"io"
 	"log"
 	"os"
-	"zniconv"
+
+	"github.com/zncoder/zniconv"
 )
 
 func main() {
